@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+
+body {
+	background-color:#cccccc;
+}
+
+.player_one{
+	background-color:white;
+	 padding:1px;
+}
+
+h1,h2,h3 {
+	text-align:center;
+}
+
+.player_two {
+	background-color:white;
+	display:block;
+	margin:0 auto;
+	width:50vw;
+    padding:20px;
+}
+
+audio ,video {
+	width:100%;
+}
